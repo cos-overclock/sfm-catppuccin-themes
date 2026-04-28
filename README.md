@@ -7,6 +7,16 @@ Local Sigma File Manager extension that adds the four official Catppuccin flavor
 - Catppuccin Macchiato
 - Catppuccin Mocha
 
+## Screenshots
+
+| Latte | Frappe |
+| --- | --- |
+| ![Catppuccin Latte](images/catppuccin_latte.png) | ![Catppuccin Frappe](images/catppuccin_frappe.png) |
+
+| Macchiato | Mocha |
+| --- | --- |
+| ![Catppuccin Macchiato](images/catppuccin_macchiato.png) | ![Catppuccin Mocha](images/catppuccin_mocha.png) |
+
 ## Install locally
 
 1. Open **Extensions** in Sigma File Manager.

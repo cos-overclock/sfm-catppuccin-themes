@@ -3,11 +3,7 @@
   "id": "sigma-hub.catppuccin-themes",
   "name": "Catppuccin Themes",
   "version": "1.0.0",
-  "publisher": {
-    "name": "Sigma Hub",
-    "url": "https://github.com/cos-overclock/sigma-file-manager"
-  },
-  "repository": "https://github.com/cos-overclock/sigma-file-manager",
+  "repository": "https://github.com/cos-overclock/sfm-catppuccin-themes",
   "license": "MIT",
   "extensionType": "api",
   "main": "index.js",

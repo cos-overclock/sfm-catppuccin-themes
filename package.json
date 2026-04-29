@@ -1,6 +1,5 @@
 {
-  "$schema": "../../api/manifest.schema.json",
-  "id": "sigma-hub.catppuccin-themes",
+  "id": "catppuccin.catppuccin-themes",
   "name": "Catppuccin Themes",
   "version": "1.0.0",
   "repository": "https://github.com/cos-overclock/sfm-catppuccin-themes",

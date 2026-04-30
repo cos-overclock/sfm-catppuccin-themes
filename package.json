@@ -1,18 +1,42 @@
 {
-  "id": "catppuccin.catppuccin-themes",
+  "$schema": "./node_modules/@sigma-file-manager/api/manifest.schema.json",
+  "id": "cos-overclock.catppuccin-themes",
   "name": "Catppuccin Themes",
   "version": "1.0.0",
+  "publisher": {
+    "name": "cos-overclock",
+    "url": "https://github.com/cos-overclock"
+  },
   "repository": "https://github.com/cos-overclock/sfm-catppuccin-themes",
   "license": "MIT",
-  "extensionType": "api",
-  "main": "index.js",
-  "permissions": [],
-  "activationEvents": [
-    "onInstall"
-  ],
   "categories": [
     "Appearance"
   ],
+  "extensionType": "api",
+  "icon": "assets/icon.png",
+  "media": [
+    {
+      "title": "Latte",
+      "src": "assets/preview-latte.png",
+      "type": "image"
+    },
+    {
+      "title": "Frappe",
+      "src": "assets/preview-frappe.png",
+      "type": "image"
+    },
+    {
+      "title": "Macchiato",
+      "src": "assets/preview-macchiato.png",
+      "type": "image"
+    },
+    {
+      "title": "Mocha",
+      "src": "assets/preview-mocha.png",
+      "type": "image"
+    }
+  ],
+  "permissions": [],
   "tags": [
     "catppuccin",
     "theme",
@@ -21,7 +45,8 @@
     "latte",
     "frappe",
     "macchiato",
-    "mocha"
+    "mocha",
+    "sigma-file-manager"
   ],
   "engines": {
     "sigmaFileManager": ">=2.0.0"
@@ -31,7 +56,7 @@
       {
         "id": "latte",
         "title": "Catppuccin Latte",
-        "description": "Official Catppuccin light flavor with soft pastel neutrals and mauve accents.",
+        "description": "Catppuccin light flavor with soft pastel neutrals and mauve accents.",
         "baseTheme": "light",
         "variables": {
           "--background": "220 23.1% 94.9%",
@@ -68,7 +93,7 @@
       {
         "id": "frappe",
         "title": "Catppuccin Frappe",
-        "description": "Official Catppuccin dark flavor with subdued contrast and cool pastel accents.",
+        "description": "Catppuccin dark flavor with subdued contrast and cool pastel accents.",
         "baseTheme": "dark",
         "variables": {
           "--background": "229 18.6% 23.1%",
@@ -105,7 +130,7 @@
       {
         "id": "macchiato",
         "title": "Catppuccin Macchiato",
-        "description": "Official Catppuccin dark flavor with medium contrast and gentle cool tones.",
+        "description": "Catppuccin dark flavor with medium contrast and gentle cool tones.",
         "baseTheme": "dark",
         "variables": {
           "--background": "232 23.4% 18.4%",
@@ -142,7 +167,7 @@
       {
         "id": "mocha",
         "title": "Catppuccin Mocha",
-        "description": "Official Catppuccin darkest flavor with cozy deep backgrounds and vivid pastel accents.",
+        "description": "Catppuccin darkest flavor with cozy deep backgrounds and vivid pastel accents.",
         "baseTheme": "dark",
         "variables": {
           "--background": "240 21.1% 14.9%",

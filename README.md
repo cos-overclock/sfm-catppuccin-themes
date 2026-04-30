@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/cos-overclock/sfm-catppuccin-themes/stargazers"><img src="https://img.shields.io/github/stars/cos-overclock/sfm-catppuccin-themes?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-  <a href="https://github.com/cos-overclock/sfm-catppuccin-themes/issues"><img src="https://img.shields.io/github/issues/cos-overclock/sfm-catppuccin-themes?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-  <a href="https://github.com/cos-overclock/sfm-catppuccin-themes/contributors"><img src="https://img.shields.io/github/contributors/cos-overclock/sfm-catppuccin-themes?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+  <a href="https://github.com/cos-overclock/sigma-file-manager-colors/stargazers"><img src="https://img.shields.io/github/stars/cos-overclock/sigma-file-manager-colors?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+  <a href="https://github.com/cos-overclock/sigma-file-manager-colors/issues"><img src="https://img.shields.io/github/issues/cos-overclock/sigma-file-manager-colors?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+  <a href="https://github.com/cos-overclock/sigma-file-manager-colors/contributors"><img src="https://img.shields.io/github/contributors/cos-overclock/sigma-file-manager-colors?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -64,6 +64,7 @@ Once the extension is published to the Sigma Marketplace, installation can move 
 
 - [Catppuccin](https://github.com/catppuccin)
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+- [cos-overclock](https://github.com/cos-overclock)
 
 &nbsp;
 

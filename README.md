@@ -64,7 +64,6 @@ Once the extension is published to the Sigma Marketplace, installation can move 
 
 - [Catppuccin](https://github.com/catppuccin)
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager)
-- [cos-overclock](https://github.com/cos-overclock)
 
 &nbsp;
 

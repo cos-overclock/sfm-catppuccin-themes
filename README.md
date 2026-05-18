@@ -29,9 +29,32 @@ Catppuccin for Sigma File Manager brings all four Catppuccin flavors to Sigma Fi
 - Catppuccin Macchiato
 - Catppuccin Mocha
 
-## Status
+## Installation
 
-This repository is currently maintained independently and is being prepared for Catppuccin Port Review and Sigma Marketplace submission.
+### From the Sigma Marketplace
+Once this extension is published to the [Sigma Marketplace](https://github.com/sigma-hub/sfm-marketplace), you can install it directly from Sigma File Manager:
+
+1. Open **Extensions** in Sigma File Manager
+2. Click **Browse Extensions** in the Marketplace
+3. Search for "Catppuccin Themes"
+4. Click **Install**
+
+### From Source (Development)
+To install from this repository directly:
+
+1. Clone this repository: `git clone https://github.com/cos-overclock/sigma-file-manager-colors.git`
+2. Open **Extensions** in Sigma File Manager
+3. Click **Install local extension** and select the cloned folder
+4. Restart Sigma File Manager
+
+## Configuration
+
+After installation, configure the themes in Sigma File Manager settings:
+
+1. Open **Settings** → **Appearance** → **Theme** to select a color theme
+2. Open **Settings** → **Appearance** → **Icon Theme** to select an icon theme
+
+You can mix and match any color theme with any icon theme for complete customization.
 
 ## Previews
 
@@ -52,18 +75,6 @@ This repository is currently maintained independently and is being prepared for 
 <img src="./assets/preview-mocha.png" alt="Catppuccin Mocha preview"/>
 </details>
 
-## Usage
-
-1. Use a Sigma File Manager build that includes extension-contributed color themes and icon themes.
-2. Download or clone this repository.
-3. Open **Extensions** in Sigma File Manager.
-4. Choose **Install local extension** and select the root folder of this repository.
-5. Open **Settings** > **Theme** and choose your preferred Catppuccin flavor for colors.
-6. Open **Settings** > **Icons** and choose your preferred Catppuccin flavor for icons.
-
-You can mix and match any color theme with any icon theme to customize your experience.
-
-Once the extension is published to the Sigma Marketplace, installation can move there without changing the theme contents.
 
 ## Notes
 

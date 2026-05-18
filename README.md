@@ -15,12 +15,19 @@
   <img src="./assets/preview.png" alt="Catppuccin for Sigma File Manager preview"/>
 </p>
 
-Catppuccin for Sigma File Manager brings all four Catppuccin flavors to Sigma File Manager through the extension-contributed theme API:
+Catppuccin for Sigma File Manager brings all four Catppuccin flavors to Sigma File Manager through the extension-contributed **color themes** and **icon themes** APIs:
 
+**Color Themes:**
 - Latte
 - Frappe
 - Macchiato
 - Mocha
+
+**Icon Themes:**
+- Catppuccin Latte
+- Catppuccin Frappe
+- Catppuccin Macchiato
+- Catppuccin Mocha
 
 ## Status
 
@@ -47,11 +54,14 @@ This repository is currently maintained independently and is being prepared for 
 
 ## Usage
 
-1. Use a Sigma File Manager build that includes extension-contributed color themes.
+1. Use a Sigma File Manager build that includes extension-contributed color themes and icon themes.
 2. Download or clone this repository.
 3. Open **Extensions** in Sigma File Manager.
 4. Choose **Install local extension** and select the root folder of this repository.
-5. Open **Settings** > **Theme** and choose your preferred Catppuccin flavor.
+5. Open **Settings** > **Theme** and choose your preferred Catppuccin flavor for colors.
+6. Open **Settings** > **Icons** and choose your preferred Catppuccin flavor for icons.
+
+You can mix and match any color theme with any icon theme to customize your experience.
 
 Once the extension is published to the Sigma Marketplace, installation can move there without changing the theme contents.
 

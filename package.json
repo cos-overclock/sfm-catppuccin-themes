@@ -3,6 +3,8 @@
   "id": "cos-overclock.catppuccin-themes",
   "name": "Catppuccin Themes",
   "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
   "publisher": {
     "name": "cos-overclock",
     "url": "https://github.com/cos-overclock"
@@ -200,6 +202,28 @@
           "--drive-progress-glow-green": "0 0 20px 6px hsl(115 54.1% 76.1% / 15%)",
           "--drive-progress-glow-red": "0 0 20px 6px hsl(343 81.2% 74.9% / 15%)"
         }
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "catppuccin-latte",
+        "label": "Catppuccin Latte",
+        "path": "dist/latte/theme.json"
+      },
+      {
+        "id": "catppuccin-frappe",
+        "label": "Catppuccin Frappe",
+        "path": "dist/frappe/theme.json"
+      },
+      {
+        "id": "catppuccin-macchiato",
+        "label": "Catppuccin Macchiato",
+        "path": "dist/macchiato/theme.json"
+      },
+      {
+        "id": "catppuccin-mocha",
+        "label": "Catppuccin Mocha",
+        "path": "dist/mocha/theme.json"
       }
     ]
   }

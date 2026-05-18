@@ -47,8 +47,7 @@
     "latte",
     "frappe",
     "macchiato",
-    "mocha",
-    "sigma-file-manager"
+    "mocha"
   ],
   "engines": {
     "sigmaFileManager": ">=2.0.0"

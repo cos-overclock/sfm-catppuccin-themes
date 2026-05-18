@@ -3,8 +3,6 @@
   "id": "cos-overclock.catppuccin-themes",
   "name": "Catppuccin Themes",
   "version": "1.0.0",
-  "type": "module",
-  "main": "index.js",
   "publisher": {
     "name": "cos-overclock",
     "url": "https://github.com/cos-overclock"
